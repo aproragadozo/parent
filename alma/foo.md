@@ -6,4 +6,4 @@ Paragraph.
 
 Another paragraph.
 
-![](img/busy.jpg, "And a lovely photo with a caption.")
+![](img/busy.jpg "And a lovely photo with a caption.")
